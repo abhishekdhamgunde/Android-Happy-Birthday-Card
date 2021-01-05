@@ -1,0 +1,1 @@
+Displays single page Birthday card.
