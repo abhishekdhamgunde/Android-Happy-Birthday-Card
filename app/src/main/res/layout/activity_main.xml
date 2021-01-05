@@ -33,6 +33,6 @@
         android:textSize="24sp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"
-        android:fontFamily="casual"
+        android:fontFamily="sherif"
         android:layout_margin="16dp"/>
 </RelativeLayout>
